@@ -1,0 +1,24 @@
+.sidenav1{
+    margin-top: 65px;
+}
+.menu i.material-icons{
+color: #0d47a1;
+}
+.btn1{
+    margin-top: 15px;
+}
+.d-flex-vertical-center {
+    display: flex;
+    align-items: center;
+}
+.li1{
+    margin: 20px;
+    font-size: 20px;
+}
+.btn-primary{
+    border-radius: 20%;
+    height: 30px;
+}
+.active1{
+    background-color: lightblue;
+}
